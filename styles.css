@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-div.word {
+.word {
   height: 16px;
   margin-bottom: 60px;
 }
 
-div.definition {
+.definition {
   margin-left: 40px; 
 }
 
