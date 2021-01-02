@@ -13,6 +13,6 @@ div {
   font-family:'Playfair Display';
   font-size:120%;
   font-weight:normal;
-  display:inline;
+  display:block;
   line-height:1.6;
 }
