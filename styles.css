@@ -1,17 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 .word {
-  margin-left: 40px; 
+  margin-left: 40px;
 }
 
 .definition {
-  margin-left: 40px; 
+  margin-left: 40px;
 }
 
 div {
-  font-family:'Playfair Display';
-  font-size:150%;
-  font-weight:normal;
-  display:block;
-  line-height:1.6;
+  font-family: 'Playfair Display';
+  font-size: 150%;
+  font-weight: normal;
+  display: block;
+  line-height: 1.7;
 }
