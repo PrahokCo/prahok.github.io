@@ -7,12 +7,12 @@ img {
 
 .word {
   display: block;
-  max-width: 900px;
+  max-width: 750px;
 }
 
 .definition {
   display: block;
-  max-width: 900px;
+  max-width: 750px;
 }
 
 div {
