@@ -4,14 +4,14 @@
   margin-left: 40px;
   margin-right: 40px;
   display: block;
-  width: 90%;
+  max-width: 900px;
 }
 
 .definition {
   margin-left: 40px;
   margin-right: 40px;
   display: block;
-  width: 90%;
+  max-width: 900px;
 }
 
 div {
