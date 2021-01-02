@@ -1,10 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-div {
-  margin-left:40px;
+.word {
+  margin-bottom: 20px; 
+  margin-left: 40px; 
 }
 
-p {
+.definition {
+  margin-left: 40px; 
+}
+
+div {
   font-family:'Playfair Display';
   font-size:16px;
   font-weight:normal;
