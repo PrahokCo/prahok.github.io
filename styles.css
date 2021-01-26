@@ -9,20 +9,19 @@ img {
 .word {
   font-family: 'Solway', serif;
   font-size: 140%;
-  display: block;
   max-width: 750px;
 }
 
 .definition {
   font-family: 'Solway', serif;
   font-size: 140%;
-  display: block;
   max-width: 750px;
 }
 
 .description {
   font-family: 'Share Tech Mono', monospace;  
   font-size: 100%;
+  max-width: 750px;
 }
 
 div {
