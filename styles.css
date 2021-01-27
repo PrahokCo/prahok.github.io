@@ -3,6 +3,9 @@
 
 a {
   color: #ff7f27;
+  -webkit-text-underline-position: under;
+  -ms-text-underline-position: below;
+  text-underline-position: under; 
 }
 
 img {
