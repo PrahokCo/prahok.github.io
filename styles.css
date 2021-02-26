@@ -37,6 +37,8 @@ img {
   font-family: 'JetBrains Mono', monospace;
   font-size: 100%;
   max-width: 750px;
+  background-color: orange;
+  color: white;
 }
 
 div {
