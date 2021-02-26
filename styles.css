@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Solway:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
 
 a {
   color: #ff7f27;
@@ -26,7 +27,7 @@ img {
 }
 
 .description {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: 'Archivo', sans-serif;
   font-size: 100%;
   max-width: 750px;
 }
