@@ -35,10 +35,10 @@ img {
   position: fixed;
   bottom: 0;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 100%;
+  font-size: 40%;
   width: 100%;
   background-color: #ff7f27;
-  color: white;
+  color: LightGrey;
 }
 
 div {
