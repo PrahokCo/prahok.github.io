@@ -21,8 +21,8 @@ img {
 }
 
 .definition {
-  font-family: 'Solway', serif;
-  font-size: 110%;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 100%;
   max-width: 750px;
 }
 
