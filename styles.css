@@ -44,4 +44,6 @@ div {
   line-height: 1.7;
   margin: auto;
   max-width: 750px;
+  padding-left: 20px;
+  padding-right: 20px;  
 }
