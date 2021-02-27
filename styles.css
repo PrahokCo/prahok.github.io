@@ -25,14 +25,14 @@ img {
 
 .description {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 90%;
+  font-size: 95%;
 }
 
 .footer {
   position: fixed;
   bottom: 0;
   font-family: 'JetBrains Mono', monospace;
-  font-size: 90%;
+  font-size: 95%;
   width: 100%;
   color: Grey;
 }
