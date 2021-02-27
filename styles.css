@@ -13,11 +13,6 @@ img {
   max-height: 300px;
 }
 
-.word {
-  font-family: 'Solway', serif;
-  font-size: 110%;
-}
-
 .definition {
   font-size: 100%;
   font-family: 'Archivo', sans-serif;
