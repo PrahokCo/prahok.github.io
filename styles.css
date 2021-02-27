@@ -19,13 +19,13 @@ img {
 }
 
 .definition {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 90%;
+  font-size: 100%;
+  font-family: 'Archivo', sans-serif;
 }
 
 .description {
-  font-family: 'Archivo', sans-serif;
-  font-size: 100%;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 90%;
 }
 
 .footer {
