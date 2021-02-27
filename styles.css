@@ -10,7 +10,53 @@ a {
 
 img {
   max-width: 60%;
+  max-height: 300px;@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+
+a {
+  color: #ff7f27;
+  -webkit-text-underline-position: under;
+  -ms-text-underline-position: below;
+  text-underline-position: under;
+}
+
+img {
+  max-width: 60%;
   max-height: 300px;
+}
+
+div {
+  font-weight: normal;
+  display: block;
+  line-height: 1.7;
+  margin: auto;
+  max-width: 600px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.definition {
+  font-size: 100%;
+  font-family: 'Archivo', sans-serif;
+  padding-left: 20px;
+}
+
+.description {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 95%;
+  padding-left: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 95%;
+  width: 100%;
+  color: Grey;
+  padding-left: 10px;
+}
+
 }
 
 div {
