@@ -5,12 +5,23 @@ a {
   color: #ff7f27;
   -webkit-text-underline-position: under;
   -ms-text-underline-position: below;
-  text-underline-position: under; 
+  text-underline-position: under;
 }
 
 img {
   max-width: 60%;
   max-height: 300px;
+}
+
+div {
+  font-weight: normal;
+  display: block;
+  line-height: 1.7;
+  margin: auto;
+  max-width: 600px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
 }
 
 .definition {
@@ -30,15 +41,4 @@ img {
   font-size: 95%;
   width: 100%;
   color: Grey;
-}
-
-div {
-  font-weight: normal;
-  display: block;
-  line-height: 1.7;
-  margin: auto;
-  max-width: 700px;
-  padding-left: 20px;
-  padding-right: 20px;  
-  padding-bottom: 20px;
 }
