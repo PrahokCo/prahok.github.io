@@ -65,26 +65,26 @@ div {
   line-height: 1.7;
   margin: auto;
   max-width: 600px;
-  padding-left: 20px;
-  padding-right: 20px;
   padding-bottom: 20px;
 }
 
 .definition {
   font-size: 100%;
   font-family: 'Archivo', sans-serif;
+  padding-left: 20px;
 }
 
 .description {
   font-family: 'JetBrains Mono', monospace;
   font-size: 95%;
+  padding-left: 20px;
 }
 
 .footer {
   position: fixed;
   bottom: 0;
+  padding-left: 20px;
   font-family: 'JetBrains Mono', monospace;
   font-size: 95%;
-  width: 100%;
   color: Grey;
 }
