@@ -17,19 +17,16 @@ img {
 .word {
   font-family: 'Solway', serif;
   font-size: 110%;
-  max-width: 750px;
 }
 
 .definition {
   font-family: 'JetBrains Mono', monospace;
   font-size: 90%;
-  max-width: 750px;
 }
 
 .description {
   font-family: 'Archivo', sans-serif;
   font-size: 100%;
-  max-width: 750px;
 }
 
 .footer {
@@ -46,4 +43,5 @@ div {
   display: block;
   line-height: 1.7;
   margin: auto;
+  max-width: 750px;
 }
