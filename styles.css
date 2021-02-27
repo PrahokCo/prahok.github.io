@@ -10,8 +10,8 @@ a {
 
 img {
   max-width: 60%;
-  max-height: 300px;@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo&display=swap');
+  max-height: 300px;
+}
 
 a {
   color: #ff7f27;
