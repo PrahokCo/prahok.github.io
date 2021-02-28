@@ -8,21 +8,11 @@ a {
   text-underline-position: under;
 }
 
-img {
-  max-width: 60%;
-  max-height: 300px;
-}
-
 a {
   color: #ff7f27;
   -webkit-text-underline-position: under;
   -ms-text-underline-position: below;
   text-underline-position: under;
-}
-
-img {
-  max-width: 60%;
-  max-height: 300px;
 }
 
 div {
