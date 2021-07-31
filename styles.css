@@ -27,6 +27,7 @@ body {
 .definition {
   font-family: 'Archivo', sans-serif;
   font-size: 90%;
+  color: #a9a9a9;
 }
 
 .description {
@@ -34,5 +35,5 @@ body {
 
 .footer {
   width: 100%;
-  color: Grey;
+  color: #a9a9a9;
 }
