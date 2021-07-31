@@ -19,19 +19,20 @@ div {
   padding-bottom: 20px;
 }
 
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 125%;
+}
+
 .definition {
-  font-size: 100%;
   font-family: 'Archivo', sans-serif;
+  font-size: 100%;
 }
 
 .description {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 125%;
 }
 
 .footer {
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 125%;
   width: 100%;
   color: Grey;
 }
