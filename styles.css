@@ -8,6 +8,10 @@ a {
   text-underline-position: under;
 }
 
+.badgey {
+ color: #000000;
+}
+
 div {
   font-weight: normal;
   display: block;
