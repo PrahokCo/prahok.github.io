@@ -1,70 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="98.530922mm"
-   height="31.260197mm"
-   viewBox="0 0 98.530923 31.260197"
-   version="1.1"
-   id="svg5"
-   xml:space="preserve"
-   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="bathrind-logo-main-jira.png"
-   inkscape:export-xdpi="45.501953"
-   inkscape:export-ydpi="45.501953"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="1.7266366"
-     inkscape:cx="293.92404"
-     inkscape:cy="139.8673"
-     inkscape:window-width="1345"
-     inkscape:window-height="809"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="text311" /><defs
-     id="defs2" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-27.889002,-59.915379)"><g
-       aria-label="PRAHOK"
-       id="text311"
-       style="font-size:25.4px;stroke-width:0.264583"><rect
-         style="fill:#000000;stroke-width:0.0552336"
-         id="rect450"
-         width="98.530922"
-         height="31.260197"
-         x="27.889002"
-         y="59.915379" /><path
-         d="m 37.252575,69.13562 v 4.960938 h 4.960937 q 2.480469,0 2.480469,-2.480469 0,-2.480469 -2.480469,-2.480469 z m -2.480469,-2.480468 h 7.441406 q 4.960938,0 4.960938,4.960937 0,4.960937 -4.960938,4.960937 h -4.960937 v 7.441407 h -2.480469 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path275" /><path
-         d="m 48.766084,66.655152 h 7.441406 q 4.960937,0 4.960937,4.960937 0,2.480469 -1.240234,3.720703 1.240234,1.240234 1.240234,3.720703 v 4.960938 h -2.480468 v -4.960938 q 0,-2.480469 -2.480469,-2.480469 h -4.960937 v 7.441407 h -2.480469 z m 2.480469,2.480468 v 4.960938 h 4.960937 q 2.480469,0 2.480469,-2.480469 0,-2.480469 -2.480469,-2.480469 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path277" /><path
-         d="m 72.429755,77.817261 -2.579688,-7.478613 -2.579687,7.478613 z m 0.855761,2.480469 h -6.870898 l -1.277441,3.720703 h -2.616895 l 5.97793,-17.363281 h 2.703711 l 5.977929,17.363281 h -2.616894 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path279" /><path
-         d="m 81.012177,76.577026 v 7.441407 H 78.531708 V 66.655152 h 2.480469 v 7.441406 h 7.441406 v -7.441406 h 2.480468 v 17.363281 h -2.480468 v -7.441407 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path281" /><path
-         d="m 100.32675,66.655152 q 4.96094,0 4.96094,4.960937 v 7.441406 q 0,4.960938 -4.96094,4.960938 h -2.480459 q -4.960938,0 -4.960938,-4.960938 v -7.441406 q 0,-4.960937 4.960938,-4.960937 z m 2.48047,4.960937 q 0,-2.480469 -2.48047,-2.480469 h -2.480459 q -2.480469,0 -2.480469,2.480469 v 7.441406 q 0,2.480469 2.480469,2.480469 h 2.480459 q 2.48047,0 2.48047,-2.480469 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path283" /><path
-         d="m 109.71946,80.905444 v 3.112989 h -2.48047 V 66.655152 h 2.48047 v 9.971484 l 6.97012,-9.971484 h 3.13779 l -6.15156,8.68164 6.15156,8.681641 h -3.26181 l -4.52686,-6.374805 z"
-         style="font-family:Bathrind;-inkscape-font-specification:Bathrind;fill:#f9f9f9"
-         id="path285" /></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="590" height="140" viewBox="0 0 590 140">
+  <path d="M0,140V0H90V80H40v60H0ZM40,60h10V20h-10V60Z" fill="#212721"/>
+  <path d="M100,140V0h90V50l-20,20,20,20v50h-40v-60h-10v60h-40Zm40-80h10V20h-10V60Z" fill="#212721"/>
+  <path d="M200,140V0h70l20,20v120h-40v-60h-10v60h-40Zm40-80h10V20h-10V60Z" fill="#212721"/>
+  <path d="M300,140V0h40V60h10V0h40V140h-40v-60h-10v60h-40Z" fill="#212721"/>
+  <path d="M420,140l-20-20V20L420,0h50l20,20V120l-20,20h-50Zm20-20h10V20h-10V120Z" fill="#212721"/>
+  <path d="M500,140V0h40V60h10V0h40V50l-20,20,20,20v50h-40v-60h-10v60h-40Z" fill="#212721"/>
+</svg>
